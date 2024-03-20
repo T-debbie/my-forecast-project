@@ -66,19 +66,19 @@ main {
 }
 
 .weather-temperature-icon {
-  font-size: 50px;
-  margin-top: 25px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-temperature-value {
   font-size: 88px;
   font-weight: bold;
-  margin-left: 10px;
+  line-height: 1;
 }
 
 .weather-temperature-unit {
   font-size: 28px;
-  margin-top: 16px;
+  margin-top: 6px;
 }
 
 .weather-app-city {
