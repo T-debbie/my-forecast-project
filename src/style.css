@@ -91,7 +91,7 @@ main {
   margin-top: 30px;
   color: 0#000;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .weather-forecast-date {
